@@ -33,4 +33,4 @@ Tech I Use
 </details>
 
 
-[LinkedIn]: https://www.linkedin.com/in/adiguzelademyusuf/
+[LinkedIn]: https://www.linkedin.com/in/ademyusufadiguzel/
