@@ -1,7 +1,7 @@
 <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47mq0k8vzqcgf6y7otybzvqi2rba00ke9vdlvz3y89&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 <br />
-Hi there, I'm Adem! :space_invader:
+Hi there, I'm Adem!
 
 Quality Assurance | QA - Tester
 
