@@ -12,7 +12,6 @@ Reach follow to me
 
 <br />
 Tech I Use
-<br />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" weight="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" weight="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/postgresql/postgresql.png" weight="25" height="25">
