@@ -25,6 +25,7 @@ Tech I Use
 <br />
 <details>
 <summary>:bulb: Git Hub Stats</summary>
+  <h3>Gecici bir arizadan dolayi kullanilmamaktadir... :D</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=ademyusufadiguzel&theme=radical">
 </details>
 
